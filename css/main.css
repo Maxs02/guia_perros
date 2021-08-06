@@ -34,6 +34,7 @@ nav a:hover     {
 
 h1  {
     text-align: center;
+    color:rgba(250, 159, 0, 0.829);
 }
 
 footer  {
@@ -74,10 +75,19 @@ footer  {
     border-radius:1em;
     padding: 3%;
     width: 90%;
-
-
 }
 
 h3  {
     text-align: center;
+    color:rgba(250, 159, 0, 0.829);
+}
+
+#home   {
+    margin-top: 5px;
+    padding-top:5px;
+ height: 20px;
+}
+
+#git    {
+    height: 30px;
 }
